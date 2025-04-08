@@ -1,0 +1,1 @@
+Tanto para valores grandes quanto pequenos, o caso sequencial performou melhor que o caso paralelo, apesar de pouco significativamente. Até mesmo quando a dimensão do vetor atingia a casa dos bilhões, o caso sequencial foi mais rápido em  em 0,1 ou 0,2 segundos e foi alguns milisegundos para dimensões menores. A variação relativa foi de zero para todos os casos testados.
